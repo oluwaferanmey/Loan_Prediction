@@ -14,9 +14,7 @@ This project uses machine learning to predict loan eligibility for applicants ba
 - [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
